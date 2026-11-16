@@ -5,10 +5,6 @@ As tarefas ficam salvas enquanto o app está aberto; ao fechá-lo, a lista é ap
 - **Início:** mostra a lista de tarefas e permite marcar ou desmarcar uma tarefa.
 - **Nova tarefa:** permite digitar e salvar uma tarefa.
 - **Detalhes:** mostra o nome e o status da tarefa selecionada.
-
-## Fonte de dados
-Dados locais mantidos no estado do aplicativo. Não é usada uma API.
-
 ## Vídeo de demonstração
 Adicionar o vídeo de até 30 segundos em `demo/demo.mp4` ou colocar aqui um link acessível.
 
