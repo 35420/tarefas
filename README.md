@@ -6,4 +6,5 @@ Este aplicativo permite adicionar tarefas, marcar quando foram concluídas e con
 - **Nova tarefa:** permite digitar e salvar uma tarefa.
 - **Detalhes:** mostra o nome e o status da tarefa selecionada.
 
-
+## Video
+- **Video-Demonstrativo:** video de 30 segundos da apresentaçao do aplicativo. 
